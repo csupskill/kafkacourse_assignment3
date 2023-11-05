@@ -1,0 +1,10 @@
+{
+    "namespace": "com.avro.generated",
+    "type": "record",
+    "name": "TruckRecord",
+    "fields": [
+        { "name": "id", "type": "integer" },
+        { "name": "latitude", "type": "string" },
+        { "name": "longitude", "type": "string" }
+    ]
+}
